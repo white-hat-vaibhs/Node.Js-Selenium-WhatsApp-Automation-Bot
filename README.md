@@ -56,7 +56,7 @@ This repository contains a **WhatsApp Automation Bot** built using **Selenium We
 
 2. **Update the message**: Customize the message in the script:
    ```javascript
-   const message = "Follow this link to join my WhatsApp community: \n\nhttps://chat.whatsapp.com/Fp5BtpmKCnFDJnLaRHu5as";
+   const message = "Follow this link to join my WhatsApp community: \n\nhttps://chat.whatsapp.com/jasdkAkjafWfjaklsH";
    ```
 
 3. **Run the script**:
