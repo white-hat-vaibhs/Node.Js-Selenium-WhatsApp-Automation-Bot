@@ -29,13 +29,13 @@ This repository contains a **WhatsApp Automation Bot** built using **Selenium We
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/whatsapp-automation-bot.git
+   https://github.com/white-hat-vaibhs/Node.Js-Whatsapp-Bulk-Messaging
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd whatsapp-automation-bot
+   cd Node.Js-Whatsapp-Bulk-Messaging
    ```
 
 3. Install dependencies:
